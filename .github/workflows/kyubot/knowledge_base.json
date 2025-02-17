@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [ "hi", "hello", "hey" ],
+      "responses": [ "Hello! How can I assist you today?" ]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [ "cost", "price", "how much" ],
+      "responses": [ "Our basic plan starts at $9.99/month." ]
+    }
+  ]
+}
